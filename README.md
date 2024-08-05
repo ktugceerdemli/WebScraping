@@ -19,5 +19,5 @@ News scraped from news site and merged with Yahoofinance library with BIST100, G
 [Project Notebook and collacted data / .csv file](https://github.com/ktugceerdemli/WebScraping/tree/main/WSBloombergHT)
 
 
-[Here] (https://medium.com/@ktugceerdemli/babysteps-to-selenium-scrap-a-news-website-using-selenium-48ca946d96b7) you can find the article published on medium.
+[Here] you can find the article published on medium. (https://medium.com/@ktugceerdemli/babysteps-to-selenium-scrap-a-news-website-using-selenium-48ca946d96b7)
 
