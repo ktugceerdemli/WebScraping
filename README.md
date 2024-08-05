@@ -3,7 +3,7 @@
 
 Web Scraping with Beautiful Soup and Selenium project on Miuul.
 
-🫀 
+🤽‍♀️ 
 ## Scraped Web site
 https://books.toscrape.com/
 
