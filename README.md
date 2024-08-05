@@ -1,4 +1,4 @@
-# WebScraping
+#👁️‍🗨️ WebScraping
 
 Web Scraping with Beautiful Soup and Selenium project on Miuul.
 
